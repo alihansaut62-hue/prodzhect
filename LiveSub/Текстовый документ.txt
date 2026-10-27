@@ -1,0 +1,2 @@
+cd C:\LiveSub
+C:\LiveSub\.venv\Scripts\python.exe C:\LiveSub\live_subtitles.py
